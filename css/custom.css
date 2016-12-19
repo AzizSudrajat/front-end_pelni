@@ -1,0 +1,65 @@
+.parallax-container {
+    height: 400px;
+}
+
+.sosmed a {
+    color: #5e6891;
+    font-size: 18px;
+}
+
+.sosmed a:hover {
+    color: #25078c;
+}
+
+/*article*/
+article {
+  padding-top: 30px;
+  margin-top: -70px;
+  margin-bottom: -20px;
+}
+
+/*slider*/
+
+.slider {
+    width: 95%;
+    margin: auto;
+}
+
+.slider .slides {
+  border-radius: 0 0 15px 15px;
+  /*box-shadow: 0px 10px 20px #4f4c4c;*/
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.slider img{
+    border-radius: 0 0 15px 15px;
+}
+
+.slider .indicators {
+    bottom: 60px;
+    z-index: 100;
+    /* text-align: left; */
+}
+
+
+/*footer*/
+
+footer.page-footer {
+    margin-top: 0px;
+}
+
+
+/*general*/
+
+.text-rata {
+    text-align: justify;
+}
+
+.clear-margin-bottom {
+    margin-bottom: 0px;
+}
+
+
+/*.link ul li a:hover {
+  color: #001e50;
+}*/
